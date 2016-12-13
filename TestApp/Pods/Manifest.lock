@@ -1,0 +1,15 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - TPKeyboardAvoiding (1.3)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.0)
+  - TPKeyboardAvoiding (~> 1.3)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  TPKeyboardAvoiding: a5138f318c06fb3e151f886e18ce4a72695d9cbe
+
+PODFILE CHECKSUM: 1485a7e59c2129920c7954737255c65bdfb4e33a
+
+COCOAPODS: 1.1.1
